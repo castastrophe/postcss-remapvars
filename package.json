@@ -1,5 +1,4 @@
 {
-  "private": false,
   "name": "postcss-remapvars",
   "version": "1.1.0",
   "description": "Remap variables with find and replace",
@@ -39,21 +38,20 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^17.5.1",
-    "@commitlint/config-conventional": "^17.4.4",
-    "@semantic-release/changelog": "^6.0.3",
+    "@commitlint/config-conventional": "^17.6.6",
     "@semantic-release/commit-analyzer": "^9.0.2",
     "@semantic-release/git": "^10.0.1",
-    "@semantic-release/github": "^9.0.0",
-    "@semantic-release/npm": "^10.0.2",
-    "@semantic-release/release-notes-generator": "^11.0.2",
-    "ava": "^5.2.0",
+    "@semantic-release/github": "^9.0.4",
+    "@semantic-release/npm": "^10.0.4",
+    "@semantic-release/release-notes-generator": "^11.0.4",
+    "ava": "^5.3.1",
     "c8": "^7.13.0",
     "husky": "^8.0.3",
-    "lint-staged": "^13.2.0",
-    "postcss": "^8.4.21",
-    "prettier": "^2.8.7",
+    "lint-staged": "^13.2.3",
+    "postcss": "^8.4.26",
+    "prettier": "^3.0.0",
     "prettier-package-json": "^2.8.0",
-    "semantic-release": "^21.0.1"
+    "semantic-release": "^21.0.7"
   },
   "lint-staged": {
     "*.js": [
