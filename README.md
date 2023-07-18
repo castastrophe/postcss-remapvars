@@ -1,14 +1,18 @@
 # postcss-remapvars
+
 > Remap variables to create variable-driven CSS components
 
 ## Installation
 
 ```sh
-npm install postcss-remapvars
-postcss -u postcss-remapvars -o dist/index.css src/index.css
+yarn add postcss-remapvars
 ```
 
 ## Usage
+
+```sh
+postcss -u postcss-remapvars -o dist/index.css src/index.css
+```
 
 Assuming you have some variables defined and a rule whose properties reference them:
 
