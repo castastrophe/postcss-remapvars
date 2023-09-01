@@ -47,7 +47,7 @@
     "ava": "^5.3.1",
     "c8": "^8.0.1",
     "husky": "^8.0.3",
-    "lint-staged": "^13.2.3",
+    "lint-staged": "^14.0.1",
     "postcss": "^8.4.26",
     "prettier": "^3.0.0",
     "prettier-package-json": "^2.8.0",
